@@ -1,5 +1,1 @@
-This is a test file.
-added another line
-Another line!
-Fourth try.
-fifth
+Starting over.
